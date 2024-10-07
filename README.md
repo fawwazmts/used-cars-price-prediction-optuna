@@ -35,7 +35,7 @@ This project aims to optimize a used car price prediction model using **Optuna**
 
 ## Related Article
 
-There is an article discussing this project in detail. You can read it [here](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2Ffawwazmts%2Fsaudi-arabia-used-car-price-prediction-with-machine-learning%2Fblob%2Fmain%2Fdata%2Fdata_saudi_used_cars_processed.csv).
+There is an article discussing this project in detail. You can read it [here](https://medium.com/@fawwazmts/hyperparameter-tuning-with-optuna-8e806b654f90).
 
 ## **Contributions**
 
